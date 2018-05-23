@@ -1,0 +1,144 @@
+.jumbo-color{
+  background:yellow;
+}
+.bdy{
+  margin-top: -48px;
+}
+.head-name{
+   color: #f44141;
+   font-size: 50px;
+   text-shadow: 4px 4px 10px pink;
+}
+.ins-name{
+   color:blue;
+   text-shadow: 4px 4px 7px yellow;
+}
+.logo{
+  float: left;
+  margin-top:-30px;
+  border-radius: 100%;
+}
+.navigation{
+  margin-top: -30px;
+  color:black;
+}
+.search{
+  display:inline-flex;
+  float: right;
+}
+.car{
+  width:100%;
+  height:320px;
+  margin-top:-30px;
+}
+.car_img{
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+}
+.main{
+     
+}
+.l{
+  background: white;
+  height: 800px;
+  margin-top: -10px;
+  width: 70%;
+  float: left;
+}
+.r{
+  background:lightgrey;
+  width: 30%;
+  margin-top: -10px;
+  height: 800px;
+  float: right;
+}
+.ftr{
+  margin-top: -30px;
+  background: rgb(64,64,64);
+  width: 100%;
+  margin-bottom: -90px;
+}
+.sl{
+    background: black;
+    height: auto;
+    margin-bottom: -40px;
+}
+.mar{
+   color: yellow;
+   font-size: 20px;
+   padding-bottom: 30px;
+}
+.depev{
+  width: 100%;
+  background-color: skyblue;
+  text-align: center;
+}
+.news{
+  background: white;
+  width: 80%;
+  margin-left:14%;
+  margin-top: 4%;
+}
+.n{
+  padding:10px 10px;
+  font-size: 18px;
+  text-align: justify;
+}
+.hlts{
+  font-size: 18px;
+  color:maroon;
+  text-align: justify;
+  text-decoration: none;
+  list-style-type: none;
+}
+.hlts:hover{
+  text-decoration: none;
+  list-style-type: none;
+  cursor: pointer;
+}
+.ev{
+  color: maroon;
+  font-size: 20px;
+}
+.holiday{
+  background: lightgrey;
+  width: 80%;
+  margin-left: 12%;
+  
+}
+.hday{
+  list-style-type: none;
+  color: red;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  
+}
+.hday_odd{
+  color:blue;
+  font-size:20px;
+}
+.dev{
+  border: 2px solid white;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border-radius: 100%;
+}
+.dn{
+  text-align: center;
+  color:brown;
+  background:white;
+  padding:5px;
+  font-size: 25px;
+  border: 2px solid red;
+  border-radius: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.dn:hover{
+  background: black;
+  color:yellow;
+  cursor: pointer;
+}
